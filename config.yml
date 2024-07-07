@@ -158,6 +158,7 @@ params:
   systems:
     - name: shinigami.ae
       category: Domain Utama
+      link: https://shinigami.ae/
     - name: shinigamitoon.xyz
       description: Domain yang Aktif saat ini
       category: Domain Baca
