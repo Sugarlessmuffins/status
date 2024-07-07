@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://status.shinigami.ae
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -251,7 +251,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableIncidentHistory: false
+  disableIncidentHistory: true
 
   # Disable dark mode
   #
