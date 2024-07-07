@@ -143,12 +143,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
+    - name: Domain Utama
+      description: Domain utama yang tidak akan berubah
+    - name: Domain Baca
+      description: Domain Baca yang akan di ban Kominfo tiap bulannya
 
   # These are your systems. Change them to
   # change the amount of components.
