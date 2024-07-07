@@ -289,7 +289,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: F You.
 
   # Tabs on homepage
   # Uncomment to enable.
@@ -310,7 +310,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableComplexCalculations: false
+  disableComplexCalculations: true
 
   # Incident posts shown
   # in one page
