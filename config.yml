@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: List Domain Shinigami
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -158,20 +158,18 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
-      link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+    - name: shinigami.ae
+      category: Domain Utama
+    - name: shinigamitoon.xyz
+      description: Domain yang Aktif saat ini
+      category: Domain Baca
+      link: https://shinigamitoon.xyz/
+    - name: shinigami01.com
+      description: Domain ini yang akan digunakan jika shinigamitoon.xyz di ban.
+      category: Domain Baca
+    - name: shinigami02.com
+      description: Domain ini yang akan digunakan jika shinigami02.com di ban.
+      category: Domain Baca
 
   # What date format to use?
   #
